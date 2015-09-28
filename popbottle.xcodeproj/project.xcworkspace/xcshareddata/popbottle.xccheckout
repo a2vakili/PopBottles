@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3A65E81C-B45B-49A1-ABED-D22B825B4797</string>
+	<key>IDESourceControlProjectName</key>
+	<string>popbottle</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>99BAA8166509FD66D40713B1B58940BA1E0DC49B</key>
+		<string>https://github.com/a2vakili/PopBottles.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>popbottle.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>99BAA8166509FD66D40713B1B58940BA1E0DC49B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/a2vakili/PopBottles.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>99BAA8166509FD66D40713B1B58940BA1E0DC49B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>99BAA8166509FD66D40713B1B58940BA1E0DC49B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>popbottle</string>
+		</dict>
+	</array>
+</dict>
+</plist>
